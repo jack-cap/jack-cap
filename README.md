@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Jack Ng
 
-I'm a **Licensed Corporate Finance Advisor (Type 6 RO)** in Hong Kong with 10+ years of experience, plus 2 years in audit with KPMG. Today, I'm focused on solving financial data problems using **Python, AI/LLMs, and open-source tools**.
+I'm a **Corporate Finance Advisor (Type 6 RO)** in Hong Kong with 10+ years of experience, plus 2 years in audit with KPMG. Today, I'm focused on solving financial data problems using **Python, AI/LLMs, and open-source tools**.
 
 I believe systematic corporate intelligence should be accessible to everyone—not just those who can afford premium services. My projects bridge deep finance domain knowledge with modern technology to make that possible.
 
