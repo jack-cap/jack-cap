@@ -8,6 +8,8 @@ I believe systematic corporate intelligence should be accessible to everyone—n
 
 ### 🚀 Current Projects
 
+**AtomDoc** - Transform PDFs into intelligent, queryable knowledge bases with hierarchical structure and AI-powered navigation.
+
 **PearlGate** – AI-powered corporate intelligence platform for Hong Kong's capital markets. Monitoring 2,500+ HKEX-listed companies and processing 200,000+ annual announcements.
 
 **Contayo** – Contact intelligence system for streamlined meeting debriefs. Automatically categorizes notes to specific contacts for quick retrieval. Currently in refactoring.
