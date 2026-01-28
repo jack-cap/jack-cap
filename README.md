@@ -8,7 +8,9 @@ I believe systematic corporate intelligence should be accessible to everyone—n
 
 ### 🚀 Current Projects
 
-**AtomDoc** - Transform PDFs into intelligent, queryable knowledge bases with hierarchical structure and AI-powered navigation.
+**Auto Manager** – Open-source, local-first AI bookkeeper. Automates receipt processing and double-entry accounting for Manager.io using a multi-agent supervisor architecture (LangGraph) to ensure strict data sovereignty.
+
+**AtomDoc** – Transform PDFs into intelligent, queryable knowledge bases with hierarchical structure and AI-powered navigation.
 
 **PearlGate** – AI-powered corporate intelligence platform for Hong Kong's capital markets.
 
@@ -20,7 +22,7 @@ I believe systematic corporate intelligence should be accessible to everyone—n
 
 **Languages:** Python, Swift  
 **Focus Areas:** LLM applications, document processing, data pipelines  
-**Tools:** Pandas, LangChain, FastAPI, PostgreSQL, Docker
+**Tools:** Pandas, LangChain, LangGraph, FastAPI, PostgreSQL, Docker
 
 ---
 
@@ -28,7 +30,7 @@ I believe systematic corporate intelligence should be accessible to everyone—n
 
 - Corporate Finance Advisory (10+ years, Hong Kong)
 - Audit (KPMG, 2 years)
-- Regulatory: Type 6 Regulated Officer (Licensed Corporate Finance Advisor)
+- Regulatory: Type 6 (Advising on Corporate Finance) Regulated Activity Regulated Officer
 
 ---
 
