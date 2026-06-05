@@ -68,7 +68,7 @@ I'm a domain expert first, builder second. The AI handles syntax I haven't memor
 
 ## 💼 Background
 
-- **Corporate Finance Advisory** — Director, Oriental Patron Asia Limited (HK), 10 years. Type 6 Responsible Officer (Advising on Corporate Finance). M&A, debt restructuring, RTOs, dual-listings. Deal values >HK$1B.
+- **Corporate Finance Advisory** — Director, Oriental Patron Asia Limited (HK), 10 years. Type 6 Responsible Officer (Advising on Corporate Finance). M&A, debt restructuring, RTOs, dual-listings.
 - **Audit** — Assistant Manager, KPMG Hong Kong (2014–2016). IPO and annual audit, Main Board and GEM.
 - **CPA** — Member, Hong Kong Institute of Certified Public Accountants (2018–)
 - **CFA** — Passed Levels 1 & 2. Level 3 candidate.
